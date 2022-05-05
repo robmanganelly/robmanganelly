@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robmanganelly
 - 👀 I’m interested in web develop using MEAN stack but also projects using Python  or Java
-- 🌱 I’m currently learning MEAN stack
+- 🌱 I’m currently learning MEAN stack, Docker and Kubernetes
 - 💞️ I’m looking to collaborate on any web project using this technology
 - 📫 How to reach me : email me to robmanganelly@gmail.com
 
