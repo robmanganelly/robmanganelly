@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @robmanganelly
-- 👀 I’m interested in web develop using MEAN stack but also projects using Python  or Java
-- 🌱 I’m currently learning MEAN stack, Docker and Kubernetes
-- 💞️ I’m looking to collaborate on any web project using this technology
+- 👋 Hi, I’m @robmanganelly. I started coding in 2019, Python was my first language. Today, I'm more focused on JS/TS, but open to other languages like JAVA/Kotlin/Go if needed.  
+- 👀 I’m interested in creating web products, but also native applications (Android mostly). I like both small and complex projects, and can work both sides of the stack.
+- 🌱 I’m currently learning about everything I can, but more focused on JS frameworks and Docker/Kubernetes
+- 💞️ I’m looking to collaborate on any web project using Angular/React/Node
 - 📫 How to reach me : email me to robmanganelly@gmail.com
 
 <!---
