@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating web products, but also native applications (Android mostly). I like both small and complex projects, and can work both sides of the stack.
 - 🌱 I’m currently learning about everything I can, but more focused on JS frameworks and Docker/Kubernetes
 - 💞️ I’m looking to collaborate on any web project using Angular/React/Node
-- 📫 How to reach me : email me to robmanganelly@gmail.com
+- 📫 How to reach me : visit my page <https://robmanganelly.dev> or email me to robmanganelly@gmail.com
 
 <!---
 robmanganelly/robmanganelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
